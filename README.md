@@ -5,15 +5,6 @@ EHRMS is an ongoing project aimed at managing the employees of the Department of
 ## Laravel Version
 - 11.2.0
 
-## Table of Contents
-
-- [Features](#features) :star2:
-- [Installation](#installation) :package:
-- [Usage](#usage) :wrench:
-- [Credentials](#credentials) :key:
-- [Contributing](#contributing) :handshake:
-- [License](#license) :scroll:
-
 ## Features :star2:
 
 - :bust_in_silhouette: Manage employee profiles and details.
