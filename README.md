@@ -4,28 +4,29 @@ EHRMS is an ongoing project aimed at managing the employees of the Department of
 
 ## Laravel Version
 - 11.2.0
+
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credentials](#credentials)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#features) :star2:
+- [Installation](#installation) :package:
+- [Usage](#usage) :wrench:
+- [Credentials](#credentials) :key:
+- [Contributing](#contributing) :handshake:
+- [License](#license) :scroll:
 
-## Features
+## Features :star2:
 
-- Manage employee profiles and details.
-- Track employee attendance and leave.
-- Handle payroll and benefits.
-- Generate reports and analytics.
-- Admin panel for managing system configurations and user roles.
+- :bust_in_silhouette: Manage employee profiles and details.
+- :calendar: Track employee attendance and leave.
+- :moneybag: Handle payroll and benefits.
+- :bar_chart: Generate reports and analytics.
+- :gear: Admin panel for managing system configurations and user roles.
 
-## Installation
+## Installation :package:
 
 Follow these steps to set up the project locally.
 
-### Prerequisites
+### Prerequisites :clipboard:
 
 Make sure you have the following installed on your machine:
 
@@ -34,7 +35,7 @@ Make sure you have the following installed on your machine:
 - Node.js & npm
 - MySQL
 
-### Steps
+### Steps :arrow_down:
 
 1. **Clone the repository:**
 
@@ -121,11 +122,11 @@ Make sure you have the following installed on your machine:
     php artisan serve --host=127.0.0.1 --port=8080
     ```
 
-## Usage
+## Usage :wrench:
 
 After setting up the project, you can register new users, manage employee records, and generate reports. Administrators can log in to the admin panel to configure the system and manage user roles.
 
-## Credentials
+## Credentials :key:
 
 Use the following credentials to log in as an admin or other roles:
 
@@ -133,8 +134,7 @@ Use the following credentials to log in as an admin or other roles:
 - **Email:** systemadmin@gmail.com
 - **Password:** 1234
 
-
-## Contributing
+## Contributing :handshake:
 
 We welcome contributions to enhance EHRMS. Please fork the repository and submit pull requests.
 
@@ -144,6 +144,6 @@ We welcome contributions to enhance EHRMS. Please fork the repository and submit
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
 
-## License
+## License :scroll:
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
