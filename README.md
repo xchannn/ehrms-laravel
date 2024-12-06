@@ -31,7 +31,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ruxeyy04/ehrms-laravel.git
+    git clone https://github.com/xchannn/ehrms-laravel.git
     cd ehrms-laravel
     ```
 
